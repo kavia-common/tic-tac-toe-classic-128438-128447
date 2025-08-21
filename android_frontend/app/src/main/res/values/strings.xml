@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Tic Tac Toe Classic</string>
+
+    <!-- Status -->
+    <string name="status_turn">Turn: %1$s</string>
+    <string name="status_turn_placeholder">Turn: X</string>
+    <string name="status_win">%1$s wins!</string>
+    <string name="status_draw">It’s a draw!</string>
+
+    <!-- Actions -->
+    <string name="action_restart">Restart</string>
+    <string name="action_reset">Reset</string>
+
+    <!-- Onboarding -->
+    <string name="onboarding_title">How to play</string>
+    <string name="onboarding_message">Two players take turns tapping the grid.\nX starts first.\nGet three in a row to win.\nUse Restart to start a new round.</string>
+    <string name="onboarding_ok">Got it</string>
+</resources>

@@ -1,0 +1,4 @@
+# Ensure Gradle wrapper scripts are treated as executable in environments honoring gitattributes
+gradlew text eol=lf
+android_frontend/gradlew text eol=lf
+*.sh text eol=lf

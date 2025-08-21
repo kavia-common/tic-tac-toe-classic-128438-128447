@@ -1,0 +1,5 @@
+rootProject.name = "tic-tac-toe-classic-android-root"
+
+// Delegate to the android_frontend project by including it as a composite build.
+// This allows running the Gradle wrapper from the repository root.
+includeBuild("android_frontend")

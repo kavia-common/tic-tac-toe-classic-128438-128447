@@ -1,0 +1,13 @@
+<resources>
+    <!-- Requested palette -->
+    <color name="primaryColor">#2196F3</color>
+    <color name="accentColor">#FFC107</color>
+    <color name="secondaryColor">#FFFFFF</color>
+
+    <!-- Derived neutrals -->
+    <color name="textPrimary">#1A1A1A</color>
+    <color name="textSecondary">#666666</color>
+    <color name="buttonOutline">#E0E0E0</color>
+    <color name="cellBorder">#E5E7EB</color>
+    <color name="cellWin">#FFF7E0</color>
+</resources>
